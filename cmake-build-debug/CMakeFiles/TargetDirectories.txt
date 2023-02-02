@@ -1,0 +1,3 @@
+C:/Users/gorba/CLionProjects/git/cmake-build-debug/CMakeFiles/git.dir
+C:/Users/gorba/CLionProjects/git/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorba/CLionProjects/git/cmake-build-debug/CMakeFiles/rebuild_cache.dir
